@@ -1,0 +1,31 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+fieldset{
+    width:50%;
+    margin:5% 10%;
+    background: pink;
+}
+label{
+    width:27%;
+    display: inline-block;
+    margin: 2% 1% 2% 4%;
+}
+input{
+    display: inline-block;
+    margin-right: 15%;
+    width: 40%;
+}
+.submit{
+    margin-left: 70%;
+    width:15%;
+}
+.flashes{
+    color:red;
+    padding-right: 0%;
+
+}
+/* .site{
+        color:peru;
+        margin-left: 30%;
+} */

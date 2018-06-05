@@ -1,0 +1,52 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.wrapper{
+    padding:0%;
+    margin: 0%;
+}
+.header, a {
+    height:7%;
+    background: rgb(41, 41, 196);
+    color:white;
+}
+.header h1, h3{
+    width:45%;
+    display: inline-block;
+    margin: 0%;
+}
+.wrapper form{
+    margin: 3% 5%;
+    font-size: 150%;
+}
+.wrapper form textarea{
+    width:90%;
+    height: 100px;
+    font-size: 100%;
+}
+.wrapper form input{
+    margin-left: 70%;
+    color:white;
+    background: rgb(216, 48, 216);
+    font-size: 100%;
+}
+.wrapper form p{
+    font-weight: bold;
+}
+.content{
+    margin: 3% 5%;
+}
+.message{
+    border: 1px solid rgb(104, 101, 101);
+    color: rgb(191, 41, 191);
+}
+.comment{
+    margin: 0% 5%;
+    color: rgb(20, 124, 20);
+    font-size: 100%;
+    font-weight: bold;
+}
+.content p{
+    font-size: 100%;
+    font-weight: bold;
+}
